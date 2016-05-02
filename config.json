@@ -13,10 +13,10 @@
             "url": ""
         },
         "developerAttribution-CHANGETHIS": {
-            "text": "Your organisation",
-            "link": "http://www.example.com"
+            "text": "SGSI-JT",
+            "link": "http://www.sgsi.com"
         },
-        "appName": "Terria Map Static",
+        "appName": "Test Terria Map Static",
         "supportEmail-CHANGETHIS": "help@example.com",
         "brandBarElements": [
             "",
